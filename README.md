@@ -3,6 +3,11 @@
 
 **Live Demo:** https://greencell-voltage-analysis.onrender.com  
 **GitHub Repository:** https://github.com/ShraddhaRajawat/Greencell-voltage-analysis
+## Voltage Analysis Chart
+
+The chart below shows the GreenCell voltage values along with the 5-day moving average.
+
+![Voltage Analysis Chart](voltage_analysis_chart.png)
 
 A Python-based data analysis application for analyzing GreenCell voltage data using Pandas and Matplotlib, with a Flask web interface for displaying dataset insights.
 
