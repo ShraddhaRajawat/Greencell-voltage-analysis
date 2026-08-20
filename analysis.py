@@ -56,4 +56,7 @@ accelerating_down = df[
 
 print("\nDOWNWARD SLOPE ACCELERATION:")
 print(accelerating_down[["Timestamp", "Values", "Slope"]].to_string(index=False))
+
+plt.tight_layout()
+plt.savefig("voltage_analysis_chart.png")
 plt.show()
